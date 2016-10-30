@@ -1,10 +1,14 @@
 #get token
 This is python get token function.<br>
-step 1 : you have a sample.txt<br><br>
-![](http://imgur.com/2WOl9fH.png)
-step 2 : you have to input python token.py [filename.txt] [n-gram]<br><br>
+<br>
+step 1 : you have a sample.txt<br>
+<br>
+![](http://imgur.com/2WOl9fH.png)<br>
+step 2 : you have to input python token.py [filename.txt] [n-gram]<br>
+<br>
 ![](http://imgur.com/oVJBORp.png)
-step 3 : you will get Data_Output.txt in your current folder<br><br>
+step 3 : you will get Data_Output.txt in your current folder<br>
+<br>
 ![](http://imgur.com/iNcCrVX.png)
 <br>
 #Environment
