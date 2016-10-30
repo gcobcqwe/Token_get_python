@@ -7,6 +7,7 @@ step 1 : you have a sample.txt<br>
 step 2 : you have to input python token.py [filename.txt] [n-gram]<br>
 <br>
 ![](http://imgur.com/oVJBORp.png)
+<br>
 step 3 : you will get Data_Output.txt in your current folder<br>
 <br>
 ![](http://imgur.com/iNcCrVX.png)
